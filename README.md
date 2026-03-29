@@ -13,4 +13,18 @@ It is made of 2 separate 3d printed parts, the top and the bottom.
 
 Here is the share link to the project: https://cad.onshape.com/documents/888c45d35c64a39055184245/w/6328c76e156d93114c845f2d/e/f25f9ae1fe243c3fda6125d5?renderMode=0&uiState=69c88a6d89ef4c064d381a0c
 
-image here
+<img width="1207" height="910" alt="image" src="https://github.com/user-attachments/assets/05a10b82-6199-44b7-b5c7-74e8a497af4a" />
+
+Made in Onshape.
+
+## PCB:
+This PCB was made in KiCad.
+
+Schematic: <img width="1209" height="997" alt="Screenshot from 2026-03-28 21-29-39" src="https://github.com/user-attachments/assets/11886b33-6cef-454c-a543-a6c496a2a906" />
+
+PCB: <img width="1209" height="997" alt="image" src="https://github.com/user-attachments/assets/79cc9721-4cab-4401-96bb-a5b550ebd5db" />
+
+In hindsight, I maybe should have used a matrix to wire the switches, but it was simpler not to.
+
+## Firmware:
+This project uses QMK firmware.

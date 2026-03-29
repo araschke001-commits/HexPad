@@ -27,4 +27,14 @@ PCB: <img width="1209" height="997" alt="image" src="https://github.com/user-att
 In hindsight, I maybe should have used a matrix to wire the switches, but it was simpler not to.
 
 ## Firmware:
-This project uses QMK firmware.
+This project uses C++ as firmware.
+
+The 6 keys act as a partial number pad for now.
+
+## BOM:
+This should be everything needed for my hackpad:
+- Seeed Studio XIAO RP2040	(1x)
+- Cherry MX Keycap - R2 (Opaque Black)	(6x)
+- Cherry MX Brown 55g Tactile Switch	(6x)
+- M3 x 16mm Socket Button Head Screws	(4x)
+- USB-C to USB-A Cable (3ft)	(1x)

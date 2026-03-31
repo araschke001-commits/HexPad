@@ -1,0 +1,19 @@
+Item,Description,Qty,Unit Price,Source
+Microcontroller,Seeed Studio XIAO RP2040,1,$3.99,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOopZXvMmgByf-1RRvHVKsvIr3-ElcDA-JOHEmFTV3-jhj_J9TbCB
+Keycaps,Cherry MX Keycap - R2 (Opaque Black),6,$1.05,https://www.sparkfun.com/cherry-mx-keycap-r2-opaque-black.html
+Switches,Cherry MX Brown 55g Tactile Switch,6,$0.40,https://mechanicalkeyboards.com/products/cherry-mx-brown-55g-tactile?srsltid=AfmBOoqP7eVyt1CeFM8HjwIxhcdVfQg3BOlUrntSQdRmUqdyqLQGY_zR
+Hardware,M3 x 16mm Socket Button Head Screws,4,"$9.99 (for 100 pack)
+or
+$0.84 (for 4 pack)
+","https://www.amazon.com/uxcell-M3x16mm-Thread-Button-Socket/dp/B01B1ODJCO
+or
+https://www.albanycountyfasteners.com/m3-050-x-16mm-button-head-socket-cap-screws-zinc-plated-steel-1111-150-0042/"
+Cable,USB-C to USB-A Cable (3ft),1,"$8.99 (for 2 pack)
+or
+$5.14 (for single)
+","https://www.amazon.com/Anker-2-Pack-Premium-Samsung-Galaxy/dp/B07DD5YHMH
+or
+https://www.walmart.com/ip/Auto-Drive-USB-C-to-USB-A-3ft-Charging-Data-Sync-Cable-PVC-Black-Single-Pack/245525955?classType=VARIANT&athbdg=L1300&from=/search"
+PCB,Custom-designed PCB,1,$15.00 (covered by grant),N/A
+3d Printed Case,CAD designed case,1,$0.00 (3d printed part),N/A
+Total,The total cost needed to make the HexPad,N/A,26.42 to 39.42,N/A

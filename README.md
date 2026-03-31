@@ -42,3 +42,5 @@ This should be everything needed for my hackpad:
 - Cherry MX Brown 55g Tactile Switch	(6x)
 - M3 x 16mm Socket Button Head Screws	(4x)
 - USB-C to USB-A Cable (3ft)	(1x)
+- Custom PCB
+- 3d Printed Case

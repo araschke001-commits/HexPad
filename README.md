@@ -26,9 +26,11 @@ Made in Onshape.
 ## PCB:
 This PCB was made in KiCad.
 
-Schematic: <img width="558" height="377" alt="Screenshot from 2026-04-07 09-58-41" src="https://github.com/user-attachments/assets/c80f9e78-5476-4ce9-bdde-ba7d163d5152" />
+Schematic:
+<img width="558" height="377" alt="Screenshot from 2026-04-07 09-58-41" src="https://github.com/user-attachments/assets/c80f9e78-5476-4ce9-bdde-ba7d163d5152" />
 
-PCB: <img width="733" height="786" alt="Screenshot from 2026-04-07 09-59-29" src="https://github.com/user-attachments/assets/02dba7c3-fe4f-4e79-9d6c-4cb241f7bee7" />
+PCB:
+<img width="733" height="786" alt="Screenshot from 2026-04-07 09-59-29" src="https://github.com/user-attachments/assets/02dba7c3-fe4f-4e79-9d6c-4cb241f7bee7" />
 
 In hindsight, I maybe should have used a matrix to wire the switches, but it was simpler not to.
 

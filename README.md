@@ -35,7 +35,7 @@ PCB:
 In hindsight, I maybe should have used a matrix to wire the switches, but it was simpler not to.
 
 ## Firmware:
-This project uses C++ as firmware because I was unable to get the QMK firmware to work and I already had experience writing code in C++.
+This project uses C++ as firmware because I was unable to get the QMK firmware to work and I already had experience writing code in C++ (I did have to look up how to do some of the arduino stuff though).
 
 The 6 keys act as a partial number pad for now. The oled is to display the last action, and the rotary encoder is to change volume and mute/unmute it.
 

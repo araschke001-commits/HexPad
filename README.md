@@ -1,7 +1,7 @@
 # 6-key-Hackpad
 This is a hackpad project with 6 keys, a rotary encoder, and an oled display. Almost everything in the cad file for this project is customizable. You can add as many keys as you want, change the dimensions of the usb c port, the inside dimensions, the wall dimensions, and basically everything else.
 
-You would use my project by pressing the keys to perform specific functions on the computer, like a simple key press like the number 1, or later I might change it to open a site or type a password in. The rotary encoder is to change volume and pause/play music. The oled display is to show things like the battery and to indicate if a button was pressed/changed.
+You would use my project by pressing the keys to perform specific functions on the computer, like a simple key press like the number 1, or later I might change it to open a site or type a password in. The rotary encoder is to change volume and mute/unmute it. The oled display is to indicate if a button was pressed/changed.
 
 The reason why I made this project is to learn how to build things like this project so in the future I can make other things similar to this to help others.
 
@@ -35,9 +35,9 @@ PCB:
 In hindsight, I maybe should have used a matrix to wire the switches, but it was simpler not to.
 
 ## Firmware:
-This project uses C++ as firmware.
+This project uses C++ as firmware because I was unable to get the QMK firmware to work and I already had experience writing code in C++.
 
-The 6 keys act as a partial number pad for now.
+The 6 keys act as a partial number pad for now. The oled is to display the last action, and the rotary encoder is to change volume and mute/unmute it.
 
 ## BOM:
 This should be everything needed for my hackpad:

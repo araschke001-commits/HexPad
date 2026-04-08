@@ -1,4 +1,4 @@
-# 6-key-Hackpad
+# HexPad
 This is a hackpad project with 6 keys, a rotary encoder, and an oled display. Almost everything in the cad file for this project is customizable. You can add as many keys as you want, change the dimensions of the usb c port, the inside dimensions, the wall dimensions, and basically everything else.
 
 You would use my project by pressing the keys to perform specific functions on the computer, like a simple key press like the number 1, or later I might change it to open a site or type a password in. The rotary encoder is to change volume and mute/unmute it. The oled display is to indicate if a button was pressed/changed.

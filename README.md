@@ -3,7 +3,7 @@ This is a hackpad project with 6 keys, a rotary encoder, and an oled display. Al
 
 You would use my project by pressing the keys to perform specific functions on the computer, like a simple key press like the number 1, or later I might change it to open a site or type a password in. The rotary encoder is to change volume and mute/unmute it. The oled display is to indicate if a button was pressed/changed.
 
-The reason why I made this project is to learn how to build things like this project so in the future I can make other things similar to this to help others.
+The reason why I made this project is to learn how to build things like this project so in the future I can make other things similar to this.
 
 ## Features:
 - 3d printed case

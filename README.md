@@ -19,6 +19,7 @@ It is made of 2 separate 3d printed parts, the top and the bottom.
 
 Here is the share link to the project: https://cad.onshape.com/documents/888c45d35c64a39055184245/w/6328c76e156d93114c845f2d/e/f25f9ae1fe243c3fda6125d5?renderMode=0&uiState=69c88a6d89ef4c064d381a0c
 
+CAD Model:
 <img width="766" height="511" alt="Screenshot from 2026-04-08 14-42-42" src="https://github.com/user-attachments/assets/38b3313a-0f47-4d29-9d12-479193d9793a" />
 
 Made in Onshape.
@@ -50,3 +51,11 @@ This should be everything needed for my hackpad:
 - USB-C to USB-A Cable (3ft)	(1x)
 - Custom PCB
 - 3d Printed Case
+
+## Build Guide
+1. Order the components
+2. Order the PCB
+3. Solder the components onto the board
+4. Move the firmware to the board using Arduino IDE
+5. Put the pcb with everything attached in the case
+6. Screw on the lid to the case

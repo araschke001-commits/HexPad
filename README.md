@@ -19,7 +19,7 @@ It is made of 2 separate 3d printed parts, the top and the bottom.
 
 Here is the share link to the project: https://cad.onshape.com/documents/888c45d35c64a39055184245/w/6328c76e156d93114c845f2d/e/f25f9ae1fe243c3fda6125d5?renderMode=0&uiState=69c88a6d89ef4c064d381a0c
 
-Image Here
+<img width="766" height="511" alt="Screenshot from 2026-04-08 14-42-42" src="https://github.com/user-attachments/assets/38b3313a-0f47-4d29-9d12-479193d9793a" />
 
 Made in Onshape.
 
@@ -30,7 +30,7 @@ Schematic:
 <img width="733" height="495" alt="Screenshot from 2026-04-07 09-58-41" src="https://github.com/user-attachments/assets/c80f9e78-5476-4ce9-bdde-ba7d163d5152" />
 
 PCB:
-<img width="733" height="786" alt="Screenshot from 2026-04-07 09-59-29" src="https://github.com/user-attachments/assets/02dba7c3-fe4f-4e79-9d6c-4cb241f7bee7" />
+<img width="757" height="792" alt="Screenshot from 2026-04-08 14-38-16" src="https://github.com/user-attachments/assets/781327c9-d262-48d1-81d8-cdd22a6b9694" />
 
 In hindsight, I maybe should have used a matrix to wire the switches, but it was simpler not to.
 

@@ -20,7 +20,7 @@ It is made of 2 separate 3d printed parts, the top and the bottom.
 Here is the share link to the project: https://cad.onshape.com/documents/888c45d35c64a39055184245/w/6328c76e156d93114c845f2d/e/f25f9ae1fe243c3fda6125d5?renderMode=0&uiState=69c88a6d89ef4c064d381a0c
 
 CAD Model:
-<img width="766" height="511" alt="Screenshot from 2026-04-08 14-42-42" src="https://github.com/user-attachments/assets/38b3313a-0f47-4d29-9d12-479193d9793a" />
+<img width="786" height="501" alt="Screenshot from 2026-04-09 09-23-34" src="https://github.com/user-attachments/assets/af5a8eb9-218b-4bfe-a2b5-89706e5e1071" />
 
 Made in Onshape.
 

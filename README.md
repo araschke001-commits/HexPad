@@ -13,7 +13,7 @@ The reason why I made this project is to learn how to build things like this pro
 - Almost everything is customizable for the CAD design.
 
 ## CAD Model:
-It is put together with 4 M3 Screws that go directly into the threaded holes on the case.
+It is put together with 4 M3 Screws that go directly into the plastic of the case.
 
 It is made of 2 separate 3d printed parts, the top and the bottom.
 
@@ -47,7 +47,7 @@ This should be everything needed for my hackpad:
 - Cherry MX Brown 55g Tactile Switch	(6x)
 - 0.91" OLED Display (1x)
 - Rotary Encoder (1x)
-- M3 x 16mm Socket Button Head Screws	(4x)
+- M3 x 8mm Socket Button Head Screws	(4x)
 - USB-C to USB-A Cable (3ft)	(1x)
 - Custom PCB
 - 3d Printed Case

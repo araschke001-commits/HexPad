@@ -20,7 +20,7 @@ It is made of 2 separate 3d printed parts, the top and the bottom.
 Here is the share link to the project: https://cad.onshape.com/documents/888c45d35c64a39055184245/w/6328c76e156d93114c845f2d/e/f25f9ae1fe243c3fda6125d5?renderMode=0&uiState=69c88a6d89ef4c064d381a0c
 
 CAD Model:
-<img width="786" height="501" alt="Screenshot from 2026-04-09 09-23-34" src="https://github.com/user-attachments/assets/af5a8eb9-218b-4bfe-a2b5-89706e5e1071" />
+<img width="861" height="724" alt="Screenshot from 2026-04-12 15-23-01" src="https://github.com/user-attachments/assets/05854f05-0bf5-427c-8ba4-96654428d38c" />
 
 Made in Onshape.
 
@@ -31,7 +31,7 @@ Schematic:
 <img width="733" height="495" alt="Screenshot from 2026-04-07 09-58-41" src="https://github.com/user-attachments/assets/c80f9e78-5476-4ce9-bdde-ba7d163d5152" />
 
 PCB:
-<img width="757" height="792" alt="Screenshot from 2026-04-08 14-38-16" src="https://github.com/user-attachments/assets/781327c9-d262-48d1-81d8-cdd22a6b9694" />
+<img width="753" height="790" alt="Screenshot from 2026-04-11 17-42-04" src="https://github.com/user-attachments/assets/bad98c15-7619-4a01-ae56-a7c5a535a68b" />
 
 In hindsight, I maybe should have used a matrix to wire the switches, but it was simpler not to.
 

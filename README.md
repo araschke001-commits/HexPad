@@ -47,6 +47,7 @@ This should be everything needed for my hackpad:
 - Cherry MX Brown 55g Tactile Switch	(6x)
 - 0.91" OLED Display (1x)
 - Rotary Encoder (1x)
+- Rotary Encoder Knob (1x)
 - M3 x 8mm Socket Button Head Screws	(4x)
 - USB-C to USB-A Cable (3ft)	(1x)
 - Custom PCB
